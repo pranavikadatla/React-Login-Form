@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color:white;
+}
+.form{
+    color:red;
+}
+.submit{
+    background-color: blue;
+    padding:4px 10px;
+    color:white;
+}
+.form-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+height: 100vh;
+}
+.border1{
+    border-color:red;
+}
+.border2{
+    border-color: blue;
+}
